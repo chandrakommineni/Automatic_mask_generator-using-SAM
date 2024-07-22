@@ -1,4 +1,3 @@
-# Automatic_mask_generator-using-SAM
 
 # Satellite Image Segmentation using SAM
 
